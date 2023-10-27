@@ -1,5 +1,4 @@
 import React from 'react'
-import { Image } from 'antd';
 
 export default function Course_section() {
     return (
@@ -10,7 +9,7 @@ export default function Course_section() {
                 <div class="w-96  m-2 p-4">
                     <div class="c-card block bg-white shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                         <div class="relative pb-48 overflow-hidden">
-                            <Image class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
+                            <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
                         </div>
                         <div class="p-4">
                             <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Yuqori</span>
@@ -26,7 +25,7 @@ export default function Course_section() {
                 <div class="w-96  m-2 p-4">
                     <div class="c-card block bg-white shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                         <div class="relative pb-48 overflow-hidden">
-                            <Image class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
+                            <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
                         </div>
                         <div class="p-4">
                             <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Yuqori</span>
@@ -42,7 +41,7 @@ export default function Course_section() {
                 <div class="w-96  m-2 p-4">
                     <div class="c-card block bg-white shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                         <div class="relative pb-48 overflow-hidden">
-                            <Image class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
+                            <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
                         </div>
                         <div class="p-4">
                             <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Yuqori</span>
@@ -58,7 +57,7 @@ export default function Course_section() {
                 <div class="w-96  m-2 p-4">
                     <div class="c-card block bg-white shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                         <div class="relative pb-48 overflow-hidden">
-                            <Image class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
+                            <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
                         </div>
                         <div class="p-4">
                             <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Yuqori</span>
@@ -74,7 +73,7 @@ export default function Course_section() {
                 <div class="w-96  m-2 p-4">
                     <div class="c-card block bg-white shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                         <div class="relative pb-48 overflow-hidden">
-                            <Image class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
+                            <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
                         </div>
                         <div class="p-4">
                             <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Yuqori</span>
@@ -90,7 +89,7 @@ export default function Course_section() {
                 <div class="w-96  m-2 p-4">
                     <div class="c-card block bg-white shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                         <div class="relative pb-48 overflow-hidden">
-                            <Image class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
+                            <img class="absolute inset-0 h-full w-full object-cover" src="https://images.unsplash.com/photo-1475855581690-80accde3ae2b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" alt="" />
                         </div>
                         <div class="p-4">
                             <span class="inline-block px-2 py-1 leading-none bg-orange-200 text-orange-800 rounded-full font-semibold uppercase tracking-wide text-xs">Yuqori</span>
